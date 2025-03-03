@@ -1,16 +1,42 @@
 # Object Oriented Programming (OOP)
+Object-oriented programming (OOP) is a computer programming model that organizes software around objects instead of logic and functions. It's a programming paradigm that uses classes and objects to structure code. 
 
+![image](https://github.com/user-attachments/assets/5d464312-49cf-4215-b1e4-3b704be9be8d)
+
+Key concepts of OOP
+### 1) Encapsulation: Restricts direct access to some components of an object. It's similar to data-hiding. 
+### 2) Inheritance: The passing of characteristics from a parent to a child. 
+### 3) Polymorphism: The ability of a message to be displayed in more than one form. 
+### 4) Abstraction: The process of hiding the internal details of an application from the outside world. 
+Benefits of OOP
+OOP makes code more modular, flexible, and intuitive. 
+OOP is useful for modeling complex systems with multiple entities and interactions. 
+OOP is useful for encapsulating data and behavior into reusable components. 
+When to use OOP
+OOP is a cornerstone in modern programming. It's used in many programming languages, including Java and C++. 
 ## Class
+A class is a structure which has provision to hold data and functions.
+
+![Screenshot 2025-03-03 192125](https://github.com/user-attachments/assets/fa3a9d48-1ff0-4088-9bfd-1cb05857bd6f)
+
 ### Basic Class Definition
+
 ### Class Attibutes
+
+![Screenshot 2025-03-03 192201](https://github.com/user-attachments/assets/f87a7d79-0a63-4115-b19d-612e9f41a177)
+
 ### Class Functions
 
 
 ## Object
+
+Objects are collections of data and methods that perform data.
+
 ### Creating objects of a particular class
 
 ### Inheritance
 
+![Screenshot 2025-03-03 192405](https://github.com/user-attachments/assets/84beec71-493a-4558-b9ca-35338ee2e2bb)
 
 # Python Practice Problems
 
